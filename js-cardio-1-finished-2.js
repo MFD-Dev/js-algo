@@ -432,4 +432,3 @@ function fizzBuzz() {
 const output = reverseString('hello');
 
 console.log(output);
->>>>>>> e8090fea1d9fe2c208a8f8ce4cc46be9f287b108
